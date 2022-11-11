@@ -13,7 +13,7 @@ public class Ctr {
 	@GetMapping("")
 		public ModelAndView heee() {
 			ModelAndView modelAndView = new ModelAndView();
-			modelAndView.setViewName("/page/main");
+			modelAndView.setViewName("page/index.html");
 			return modelAndView;
 		}
 	
