@@ -2,7 +2,7 @@ package gene;
 
 public class Coffee {
 	
-	private String name = "coffee";
+	private String name = "coffee";     
 	
 	public Coffee() {
 		

@@ -4,7 +4,7 @@ public class CafeLatte {
 
 	private String name="CafeLatte";
 	private Milk milk;
-	private Espresso espresso;
+	private Espresso espresso;  
 	
 	public CafeLatte() {
 	}

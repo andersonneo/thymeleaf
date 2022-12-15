@@ -6,7 +6,7 @@ public class Barista {
 	
 	public Barista() {
 		
-	}
+	}  
 
 	public void setEspressoMahine(EspressoMahine espressoMahine) {
 		this.espressoMahine = espressoMahine;
